@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/subhradeeps/xyz/language-masters/en:/",
+    "/content/subhradeeps/xyz/language-masters/en/:/en/",
+    "/content/subhradeeps/xyz/language-masters/fr/:/fr/",
+    "/content/subhradeeps/xyz/language-masters/fr:/fr",
+    "/content/subhradeeps/xyz/language-masters/es/:/es/",
+    "/content/subhradeeps/xyz/language-masters/es:/es",
+    "/content/subhradeeps/xyz/language-masters/ja/:/ja/",
+    "/content/subhradeeps/xyz/language-masters/ja:/ja",
+    "/content/subhradeeps/xyz/language-masters/de/:/de/",
+    "/content/subhradeeps/xyz/language-masters/de:/de",
+    "/content/subhradeeps/xyz/configuration:/.helix/config.json",
+    "/content/subhradeeps/xyz/metadata:/metadata.json",
+    "/content/subhradeeps/xyz/redirects:/redirects.json",
+    "/content/subhradeeps/xyz/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/subhradeeps/xyz/",
+    "/content/dam/subhradeeps/xyz/"
   ]
 }
